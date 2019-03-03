@@ -1,0 +1,25 @@
+body{
+	font-family: 'Press Start 2P', cursive;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background:linear-gradient(to right, rgb(13, 185, 242), rgb(174, 82, 205));
+	text-transform: capitalize;
+}
+
+h2	{
+	color: #FDF2FE;
+	font-size: 20px;
+}
+span{
+	font-size: 1.5em;
+	color:#b3b3b3;
+}
+
+
+#donts{
+	font-size: .5em;
+}
+a{
+	color:#b3b3b3		;
+}
